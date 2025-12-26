@@ -17,6 +17,7 @@ using item-to-item association logic.
 - Dynamic price calculation
 - AI-based product suggestions
 
-## Run
+## How to Run
 ```bash
 python main.py
+
