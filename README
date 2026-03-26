@@ -1,23 +1,23 @@
-# AI-Assisted Restaurant Ordering System
+# AI-Assisted Restaurant System
 
-A Python-based desktop application that simulates a restaurant ordering process
-with an AI-assisted product recommendation feature.
+A Python-based desktop application developed for restaurant staff to manage orders efficiently and receive AI-assisted product recommendations during the ordering process.
 
 ## Overview
-The system analyzes historical order patterns and suggests complementary items
-using item-to-item association logic.
+The system helps restaurant personnel create orders, calculate total prices automatically, and receive product suggestions based on previously selected items using association logic.
 
 ## Technologies
 - Python
 - Tkinter
-- Basic AI (co-occurrence based recommendation)
+- Basic AI (association-based recommendation)
+- Object-Oriented Programming (OOP)
 
 ## Features
-- Interactive GUI
+- Order management interface for staff
+- Menu display
 - Dynamic price calculation
-- AI-based product suggestions
+- AI-based product recommendations
+- Simple and user-friendly GUI
 
 ## How to Run
 ```bash
 python main.py
-
